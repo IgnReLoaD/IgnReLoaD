@@ -1,7 +1,12 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ignasi</h1>
 <h3 align="center">A passionate of software development from Barcelona</h3>
+
+
+<p align="center"> <img height="20px" src="https://komarev.com/ghpvc/?username=IgnReLoaD&label=Profile%20views&color=0e75b6&style=flat" alt="IgnReLoaD" />
+<a href="https://github.com/IgnReLoaD"><img src="https://img.shields.io/github/stars/IgnReLoaD"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=ignasiortiz">
+<img src="https://img.shields.io/twitter/follow/stratocaster_o?style=social&logo=twitter" alt="follow on Twitter"></a></p>
 
 <!--
 **IgnReLoaD/IgnReLoaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
