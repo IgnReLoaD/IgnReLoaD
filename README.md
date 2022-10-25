@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Ignasi</h1>
+<h3 align="center">A passionate of software development from Barcelona</h3>
+
 <!--
 **IgnReLoaD/IgnReLoaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
