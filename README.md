@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!-- - 👨‍ You can check out about me at [my webpage](https://ign-informatica.comstratocastero.github.io/web-omar) ⚠️WIP <br> 
 -->
 
 - 🔭 I’m currently working on several freelance IT projects
 - 🌱 I’m currently improving backend technologies such as mongoDB and MySql
-<!-- - 👨‍ You can check out about me at [my webpage](https://ign-informatica.comstratocastero.github.io/web-omar) ⚠️WIP <br>  -->
 - 💻 See my work at [my Github pages](https://IgnReLoaD.github.io/) 
+- 📄 Know about my experiences [resume](www.linkedin.com/in/ignasiortiz)
 
 
 <span class="html-tag">&lt;/h3&gt;</span>Languages and Tools:<span class="html-tag">&lt;/h3&gt;</span>
