@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on several freelance IT projects
+- 🌱 I’m currently improving backend technologies such as mongoDB and MySql
+<!-- - 👨‍ You can check out about me at [my webpage](https://ign-informatica.comstratocastero.github.io/web-omar) ⚠️WIP <br>  -->
+- 💻 See my work at [my Github pages](https://IgnReLoaD.github.io/) 
+
+
 <span class="html-tag">&lt;/h3&gt;</span>Languages and Tools:<span class="html-tag">&lt;/h3&gt;</span>
 
 </td></tr><tr><td class="line-number" value="1980"></td><td class="line-content"><span class="html-tag">&lt;p <span class="html-attribute-name">align</span>="<span class="html-attribute-value">center</span>" <span class="html-attribute-name">dir</span>="<span class="html-attribute-value">auto</span>"&gt;
