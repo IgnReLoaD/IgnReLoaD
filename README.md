@@ -70,7 +70,7 @@ Here are some ideas to get you started:
  </a> 
 </p>
 
-<p align="center"><b> Backend: &nbsp; &nbsp; LAMP: </b>
+<p align="center"><b> Backend: &nbsp; LAMP: </b>
  <a href="https://laravel.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
  <a href="https://getcomposer.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer_package_modules" width="40" height="40"/> 
  </a>
- &nbsp; &nbsp;<b>... NODE: </b>
+ &nbsp;<b>... NODE: </b>
  <a href="https://codeigniter.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="php" width="40" height="40"/> 
  </a>
