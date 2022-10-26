@@ -63,16 +63,20 @@ Here are some ideas to get you started:
  </a> 
  </p>
 
- <p align="center"><b> Backend: </b>
- <a href="https://php.net/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
- </a>
+ <p align="center"><b> Backend: - LAMP </b>
  <a href="https://laravel.com/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="php" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
+<a href="https://apache.com/" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="ApacheServer" width="40" height="40"/> 
+ </a>  
  <a href="https://www.mysql.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  </a>
+ <a href="https://php.net/" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+ </a>
+ &nbsp; &nbsp; - NODE </b>
  <a href="https://codeigniter.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="php" width="40" height="40"/> 
  </a>
