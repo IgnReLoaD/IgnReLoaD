@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <a href="https://www.jquery.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> 
  </a> 
- <b> &nbsp; ...💻... </b> 
+ <b>&nbsp;...💻: </b> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a> 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  <a href="https://php.net/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
- &nbsp; &nbsp; <b> | 2- NODE: </b>
+ &nbsp; &nbsp;<b>... 2-NODE: </b>
  <a href="https://codeigniter.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="php" width="40" height="40"/> 
  </a>
