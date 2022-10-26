@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!-- - 👨‍ You can check out about me at [my webpage](https://ign-informatica.comstratocastero.github.io/web-omar) ⚠️WIP <br> 
 -->
 
-- 🔭 I’m currently working on several freelance IT projects
-- 🌱 I’m also improving backend technologies such as mongoDB, MySql
-- 💻 See my work at [my Github pages](https://IgnReLoaD.github.io/) 
+- 🔭 I’m currently working on several freelance IT projects (surroundings of Barcelona)
+- 🌱 I’m also improving backend technologies such as Laravel, mongoDB...
+- 💻 See some of my work at [my Github pages](https://IgnReLoaD.github.io/) 
 - 📄 Know about my experiences [wwww.linkedin.com/in/ignasiortiz](www.linkedin.com/in/ignasiortiz)
 
 
