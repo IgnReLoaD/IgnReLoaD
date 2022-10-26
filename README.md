@@ -114,6 +114,9 @@ Here are some ideas to get you started:
  <a href="https://github.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
  </a> &nbsp; 
+ <a href="https://getcomposer.org" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/> 
+ </a> &nbsp; 
  <a href="https://code.visualstudio.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudioCode" width="40" height="40"/> 
  </a>
