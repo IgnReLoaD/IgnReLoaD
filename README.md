@@ -101,19 +101,19 @@ Here are some ideas to get you started:
  </a> 
  </p>
  
-<p align="center"> <b> Other Tools: </b>
+<p align="center"> <b> Other Tools: &nbsp; &nbsp; &nbsp; </b>
  <a href="https://wordpress.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
- </a>
+ </a> &nbsp; 
  <a href="https://www.heroku.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40"/> 
- </a> 
+ </a> &nbsp; 
  <a href="https://bitbucket.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="40" height="40"/> 
- </a>
+ </a> &nbsp; 
  <a href="https://github.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
- </a>
+ </a> &nbsp; 
  <a href="https://code.visualstudio.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudioCode" width="40" height="40"/> 
  </a>
