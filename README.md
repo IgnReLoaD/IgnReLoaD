@@ -111,6 +111,9 @@ Here are some ideas to get you started:
  <a href="https://bitbucket.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="40" height="40"/> 
  </a> &nbsp; 
+ <a href="https://git-scm.com" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="Git_scm" width="40" height="40"/> 
+ </a> &nbsp;
  <a href="https://github.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
  </a> &nbsp; 
@@ -126,7 +129,7 @@ Here are some ideas to get you started:
  <a href="https://eslint.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" alt="ES-Lint" width="40" height="40"/> 
  </a>
- 
+
  </p>
 
 <br>
