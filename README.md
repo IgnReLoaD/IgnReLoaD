@@ -68,13 +68,13 @@ Here are some ideas to get you started:
   <a href="https://redux.js.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
  </a> 
- </p>
+</p>
 
- <p align="center"><b> Backend: &nbsp; &nbsp; 1-LAMP: </b>
+<p align="center"><b> Backend: &nbsp; &nbsp; LAMP: </b>
  <a href="https://laravel.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
-<a href="https://apache.com/" target="_blank"> 
+ <a href="https://apache.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="ApacheServer" width="40" height="40"/> 
  </a>  
  <a href="https://www.mysql.com/" target="_blank"> 
@@ -83,23 +83,27 @@ Here are some ideas to get you started:
  <a href="https://php.net/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
- &nbsp; &nbsp;<b>... 2-NODE: </b>
+ <a href="https://getcomposer.org" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer_package_modules" width="40" height="40"/> 
+ </a>
+ &nbsp; &nbsp;<b>... NODE: </b>
  <a href="https://codeigniter.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="php" width="40" height="40"/> 
  </a>
  <a href="https://nodejs.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  </a> 
+   <a href="https://npmjs.com" target="_blank"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="node_package_modules" width="40" height="40"/> 
+ </a>
  <!-- <a href="https://expressjs.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
  </a> -->
  <a href="https://www.mongodb.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
  </a> 
- <a href="https://postman.com" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- </a> 
- </p>
+
+</p>
  
 <p align="center"> <b> Other Tools: &nbsp; &nbsp; &nbsp; &nbsp; </b>
  <a href="https://wordpress.org" target="_blank"> 
@@ -116,18 +120,15 @@ Here are some ideas to get you started:
  </a> &nbsp;
  <a href="https://github.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
- </a> &nbsp; 
-  <a href="https://npmjs.com" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="node_package_modules" width="40" height="40"/> 
- </a> &nbsp; 
- <a href="https://getcomposer.org" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer_package_modules" width="40" height="40"/> 
- </a> &nbsp; 
+ </a> &nbsp;  
  <a href="https://code.visualstudio.com" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VisualStudioCode" width="40" height="40"/> 
  </a> &nbsp; 
  <a href="https://eslint.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" alt="ES-Lint" width="40" height="40"/> 
+ </a> &nbsp; 
+  <a href="https://postman.com" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
  </a> &nbsp; 
 
  </p>
