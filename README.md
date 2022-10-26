@@ -70,7 +70,7 @@ Here are some ideas to get you started:
  </a> 
  </p>
 
- <p align="center"><b> Backend: &nbsp; 1-LAMP: </b>
+ <p align="center"><b> Backend: &nbsp; &nbsp; 1-LAMP: </b>
  <a href="https://laravel.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
