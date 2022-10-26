@@ -70,7 +70,7 @@ Here are some ideas to get you started:
  </a> 
 </p>
 
-<p align="center"><b> Backend: &nbsp; LAMP: </b>
+<p align="center"><b> Backend: &nbsp;&nbsp; LAMP: </b>
  <a href="https://laravel.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 </p>
  
-<p align="center"> <b> Other Tools: &nbsp; &nbsp; &nbsp; &nbsp; </b>
+<p align="center"> <b> Other Tools: &nbsp; &nbsp; &nbsp; &nbsp;</b>
  <a href="https://wordpress.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
  </a> &nbsp; 
