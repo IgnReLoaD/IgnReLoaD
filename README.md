@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  </a> 
  </p>
 
- <p align="center"><b> Backend: - LAMP </b>
+ <p align="center"><b> Backend: &nbsp; 1-LAMP:</b>
  <a href="https://laravel.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
  </a>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
  <a href="https://php.net/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
  </a>
- &nbsp; &nbsp; - NODE </b>
+ &nbsp; &nbsp; <b> | 2- NODE:</b>
  <a href="https://codeigniter.com/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="php" width="40" height="40"/> 
  </a>
